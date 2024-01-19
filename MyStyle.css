@@ -1,0 +1,122 @@
+.navbar{
+    background-color: rgb(45, 218, 186);
+    border-radius: 20%;
+    
+}
+.navbar li{
+    float: left;
+    list-style: none;
+    margin: 5px 10px;
+}
+.navbar ul{
+    overflow: auto;
+}
+.navbar li a{
+    padding: 5px 5px;
+    text-decoration: none;
+    color: rgb(1, 5, 8);
+   
+}
+
+.main{
+    border-radius: 5px;
+    text-align: center;
+    color:rgb(24, 8, 2) ;
+   
+    background-color: rgb(162, 255, 0);
+}
+#first{
+    text-align: center;
+    color:rgb(32, 12, 5) ;
+    background-color: rgb(0, 217, 255);
+}
+body{
+    
+    background-color: rgb(187, 242, 231);
+   background-repeat: no-repeat;
+background-size: cover;
+background-attachment:scroll;
+ margin-right: auto;
+ border:black;
+ padding: 10px 50px 55px 50px;
+}
+
+.project{
+    text-align: center;
+    color:rgb(32, 12, 5) ;
+    background-color: rgb(0, 217, 255);
+}
+.training{
+    text-align: center;
+    color:rgb(32, 12, 5) ;
+    background-color: rgb(0, 217, 255);
+}
+.Education{
+    text-align: center;
+    color:rgb(32, 12, 5) ;
+    background-color: rgb(0, 217, 255);
+}
+.Dept{
+    display: flex;
+    background-color: aquamarine;
+}
+.Btech {
+    
+    width: 300px;
+    height: 500px;
+    border: 1px solid black;
+    padding: 8px;
+    margin: 10px 10px;
+    background-color: rgb(200, 255, 0);
+}
+.Dip{
+    align-items: right;
+    width: 300px;
+    height: 500px;
+    border: 1px solid black;
+    padding: 8px;
+   margin: 10px 10px;
+   background-color: rgb(200, 255, 0);
+}
+.twelve{
+    align-items: right;
+    width: 300px;
+    height: 500px;
+    border: 1px solid black;
+    padding: 8px;
+    margin: 10px 10px;
+    background-color: rgb(200, 255, 0);
+}
+.ten{
+    align-items: right;
+    width: 300px;
+    height: 500px;
+    border: 1px solid black;
+    padding: 8px;
+    margin: 10px 10px;
+    background-color: rgb(200, 255, 0);
+}
+
+.skill{
+    text-align: center;
+    color:rgb(32, 12, 5) ;
+    background-color: rgb(0, 217, 255);
+}
+
+.Intern{
+    text-align: center;
+    color:rgb(32, 12, 5) ;
+    background-color: rgb(0, 217, 255);
+}
+.contact{
+    text-align: center;
+    color:rgb(32, 12, 5) ;
+    background-color: rgb(0, 217, 255);
+}
+.add{
+    text-align: center;
+}
+.uselink{
+    justify-content: right;
+    text-align: center;
+}
